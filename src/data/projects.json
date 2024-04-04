@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Currency Convertor",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://657b0b27b691de1ab152e1f0--zesty-bunny-dde9ad.netlify.app/",
+    "source": "https://github.com/MukeshbalaV/currency-converter/tree/master"
   },
   {
-    "title": "Project B",
+    "title": "Passgen-X",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["Flutter", "Firebase", "GO"],
+    
+    "source": "https://github.com/MukeshbalaV/passgenx"
   },
   {
-    "title": "Project C",
+    "title": "Thermofix",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "thermal image processing for heightened defense capabilities",
+    "skills": ["Python", "Pyqt5", "OpenCv"],
+    
     "source": "https://www.github.com"
   }
 ]
